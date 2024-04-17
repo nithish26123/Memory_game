@@ -13,7 +13,7 @@ This Memory Game is a web-based application designed to entertain and challenge 
 
 ## Demo
 
-Experience the thrill of the Memory Game by playing the live demo [here]([https://example.com/memory-game](https://memory-game26-js.netlify.app/)).
+Experience the thrill of the Memory Game by playing the live demo [here]([https://memory-game26-js.netlify.app/]).
 
 ## Getting Started
 
